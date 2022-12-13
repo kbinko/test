@@ -3,3 +3,5 @@ git add .
 git commit -m "widomość"
 git log
 git status
+git branch nazwa
+git checkout nazwa
