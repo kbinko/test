@@ -5,4 +5,3 @@ git log
 git status
 git branch nazwa
 git checkout nazwa
-git merge co_wysylasz do_czego
