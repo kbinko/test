@@ -5,3 +5,4 @@ for x in range(10):
 
 print("Konrad tu byl")
 print("Konrad tu byl znowu")
+print("Konrad tu byl znowu")
