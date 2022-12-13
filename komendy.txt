@@ -1,0 +1,5 @@
+git init - inicjalizacja repo
+git add .
+git commit -m "widomość"
+git log
+git status
