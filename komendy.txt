@@ -8,3 +8,4 @@ git checkout nazwa
 
 
 asfasaf
+asasgasg
