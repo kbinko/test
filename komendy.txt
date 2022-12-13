@@ -5,7 +5,4 @@ git log
 git status
 git branch nazwa
 git checkout nazwa
-
-
-asfasaf
-asasgasg
+git merge co_wysylasz do_czego
