@@ -5,10 +5,3 @@ git log
 git status
 git branch nazwa
 git checkout nazwa
-
-
-asfasaf
-asasgasg
-
-
-jakieś zmiany
