@@ -9,3 +9,6 @@ git checkout nazwa
 
 asfasaf
 asasgasg
+
+
+jakieś zmiany
